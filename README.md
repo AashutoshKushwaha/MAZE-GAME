@@ -21,5 +21,7 @@ A dynamic, randomly generated 3D VR maze survival game where no two playthroughs
 2. Navigate into the directory:
    ```bash
     cd MAZE-GAME
-3. *(Add your specific run instructions here)*
+3. Instructions 
 Unzip the repository files and install the game via the installer. And have fun !!
+
+Demo Game Play video in the repo.
